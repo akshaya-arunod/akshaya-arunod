@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Crafting digital experiences across software, web, and 3D.<br>I build robust applications using C#, WPF, .NET, Java, MySQL, and web technologies, and I bring ideas to life through 3D modeling, rendering, and animation.<br><br>What I do:<br><br>⚡ Full-stack web development (HTML, CSS, JS, APIs)<br><br>🖥️ C# WPF applications (POS Systems, dashboards, management tools)<br><br>🛠️ SQL & MySQL database design<br><br>🎨 3D product visualization & animation<br><br>🧠 UI/UX design with a clean, modern approach<br><br>Current Focus:<br>Building scalable software, experimenting with AI-assisted systems, and sharpening my engineering craft.
 
